@@ -8,6 +8,9 @@
 
 
 ---
+### 2023.10.09
+- [Lv.2 피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | [FibonacciNumbers.java](programmers%2Flevel2%2FFibonacciNumbers.java)
+- [Lv.2 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [Carpet.java](programmers%2Flevel2%2FCarpet.java)
 
 ### 2023.10.05
 - [Lv.2 최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941?language=java) | [CreateMinimum.java](programmers%2Flevel2%2FCreateMinimum.java)
