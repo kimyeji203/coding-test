@@ -8,6 +8,9 @@
 
 
 ---
+### 2023.10.22
+- [Lv.2 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | [EngShiritori.java](programmers%2Flevel2%2FEngShiritori.java)
+
 ### 2023.10.09
 - [Lv.2 피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | [FibonacciNumbers.java](programmers%2Flevel2%2FFibonacciNumbers.java)
 - [Lv.2 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [Carpet.java](programmers%2Flevel2%2FCarpet.java)
